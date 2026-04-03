@@ -1,0 +1,17 @@
+*.slo
+*.lo
+*.o
+*.obj
+
+*.so
+*.dylib
+*.dll
+
+*.exe
+*.out
+*.app
+
+.vs/
+*.pdb
+*.idb
+*.ilk

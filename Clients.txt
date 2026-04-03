@@ -1,0 +1,5 @@
+Mohammed,Abu-Hadhoud,Mo@gmail.com,0799997886,A101,1234,4999.000000
+oooo,oooo,ooo,ooo,A103,ooo,5555.000000
+Issa,Aljariri,issa@gmail.com,0780138330,A111,1294,100000.000000
+omar,aljariri,omar@gmail.com,34343434,A99,12334,3233.000000
+ammar,aljariri,1@gmail.com,0er834r,A999,12,3333.000000

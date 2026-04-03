@@ -1,0 +1,112 @@
+﻿  Code.cpp
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUtil.h(21,14): warning C4091: 'static ': ignored on left of 'clsUtil::enCharacterType' when no variable is declared
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUser.h(274,14): warning C4091: 'static ': ignored on left of 'clsUser::enSaveResults' when no variable is declared
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsBankClient.h(134,14): warning C4091: 'static ': ignored on left of 'clsBankClient::enSaveResults' when no variable is declared
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsClientListScreen.h(31,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewClientScreen.h(31,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewClientScreen.h(39,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsDeleteClientScreen.h(19,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateClientScreen.h(26,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateClientScreen.h(34,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsFindClientScreen.h(14,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsDepsitScreen.h(35,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsWithdrawScreen.h(44,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsTransferScreen.h(86,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsTransferScreen.h(87,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsTransactionsScreen.h(19,17): warning C4091: 'static ': ignored on left of 'clsTransactionsScreen::enTransactions' when no variable is declared
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsTransactionsScreen.h(129,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(33,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(40,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(47,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(55,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(63,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(71,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(79,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsAddNewUserScreen.h(87,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(30,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(37,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(44,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(52,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(60,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(68,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(76,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateUserScreen.h(84,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsManageUsersScreen.h(126,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsLogRegisterScreen.h(115,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUpdateCurrencyRate.h(17,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsCurrencyCalculatorScreen.h(16,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsBankClient.h(281,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\clsUser.h(314,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Code.vcxproj -> C:\Users\Aljariri\source\repos\Programming Adivces\11) OOP as it Should Be (Applications)\Project 3 - Bank System\Code\x64\Debug\Code.exe
