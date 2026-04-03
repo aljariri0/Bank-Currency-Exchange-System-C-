@@ -15,3 +15,4 @@
 *.pdb
 *.idb
 *.ilk
+/Code/x64/Debug
