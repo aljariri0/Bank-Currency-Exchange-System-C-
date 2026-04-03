@@ -31,6 +31,6 @@ A comprehensive, console-based enterprise application built in C++ utilizing Obj
 
 ## How to Run
 1. Clone the repository.
-2. Compile the source code using any C++ compiler (e.g., GCC, MSVC).
+2. Compile the source code (```Code.cpp```) using any C++ compiler (e.g., GCC, MSVC).
 3. Ensure the text files (`Clients.txt`, `Users.txt`, `Currencies.txt`, etc.) are in the same directory as the executable.
 4. Run the program. (Default Admin Login: *[Provide the default username/password here based on your Users.txt]*).
