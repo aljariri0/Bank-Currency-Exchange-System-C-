@@ -16,3 +16,8 @@
 *.idb
 *.ilk
 /Code/x64/Debug
+Code.vcxproj.filters
+Code.vcxproj.user
+Code.vcxproj.xml
+Code.sln
+0
